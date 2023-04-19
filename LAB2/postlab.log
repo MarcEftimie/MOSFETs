@@ -1,0 +1,22 @@
+Circuit: * Z:\home\marc\S4\circuits\MOSFETs\LAB2\postlab.asc
+
+WARNING: Node $G_VDD is floating.
+
+
+Date: Wed Apr 12 18:56:05 2023
+Total elapsed time: 0.063 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 424
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 10
+fillins = 0
+solver = Normal
+Matrix Compiler1: 400 bytes object code size  0.5/0.4/[0.3]
+Matrix Compiler2: 830 bytes object code size  0.4/0.6/[0.3]
+
