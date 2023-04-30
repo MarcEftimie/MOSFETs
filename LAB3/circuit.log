@@ -3,8 +3,8 @@ Circuit: * Z:\home\marc\S4\circuits\MOSFETs\LAB3\circuit.asc
 WARNING: Node $G_VDD is floating.
 
 
-Date: Wed Apr 19 13:16:57 2023
-Total elapsed time: 0.029 seconds.
+Date: Wed Apr 19 19:53:00 2023
+Total elapsed time: 0.024 seconds.
 
 tnom = 27
 temp = 27
@@ -18,5 +18,5 @@ matrix size = 12
 fillins = 0
 solver = Normal
 Matrix Compiler1: 570 bytes object code size  0.2/0.1/[0.1]
-Matrix Compiler2: 994 bytes object code size  0.1/0.2/[0.1]
+Matrix Compiler2: 994 bytes object code size  0.1/0.1/[0.1]
 
